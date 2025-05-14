@@ -1,3 +1,3 @@
-module github.com/goydb/utils
+module github.com/kachaje/utils
 
 go 1.16
